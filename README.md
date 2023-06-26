@@ -9,5 +9,6 @@ Hero Page
 
 Property Page
 
-![real-estate-screenshot3](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/b2ff015a-5796-42a3-adf2-b095e9c2079a)
+![real-estate-screenshot3](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/07b563c0-760c-4575-b729-b757cf01d48e)
+
 Indiviual Property Info
