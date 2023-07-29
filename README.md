@@ -35,6 +35,8 @@ which is mobile responsive where you can filter the properties you want.
 
 ![updated-real-estate-screenshot11](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/e7d1da6b-534e-4c73-9fc6-e84fe940e6e9)
 
+## List your property 
+![updated-real-estate-screenshot12](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/b78c2635-bb01-4849-9f2c-0bab02870dbe)
 
 
 
