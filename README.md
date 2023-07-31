@@ -22,6 +22,10 @@ which is mobile responsive where you can filter the properties you want.
 ## Escrow Contract
 ![updated-real-estate-screenshot7](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/1065a423-acdb-4ed7-9814-ce6c6cf2b909)
 
+## Fill details
+![updated-real-estate-screenshot133](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/94c662ca-9b35-4518-964b-0292a50e7bfd)
+
+
 ## Orders 
 ![updated-real-estate-screenshot8](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/d7038e0c-ac05-4117-8387-e130e46ac891)
 
@@ -38,8 +42,12 @@ which is mobile responsive where you can filter the properties you want.
 ## List your property 
 ![updated-real-estate-screenshot12](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/b78c2635-bb01-4849-9f2c-0bab02870dbe)
 
+## Agents' List of Buyers / Sellers / Escrow Contracts 
+![updated-real-estate-screenshot16](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/d96e9e8b-9cbe-44ec-9c32-701ee87ce08f)
 
-
+## Chat with Agents( for payment / documents )
+![updated-real-estate-screenshot15](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/96a9107a-b64d-49fc-95b5-45a341b1e5f8)
+![updated-real-estate-screenshot14](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/ea5c334c-7a50-404d-af23-173a115ca1c0)
 
 
 
