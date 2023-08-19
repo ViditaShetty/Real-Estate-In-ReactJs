@@ -7,6 +7,8 @@ which is mobile responsive where you can filter the properties you want.
 
 ### Hero Page
 ![updated-real-estate-screenshot2](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/506f757c-d639-463b-92f8-2f8e0eba7f7b)
+### Updated Hero Page
+![updated-ome-real-estate-screenshot1](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/0718a8c8-0cf2-4653-8d25-b387cd467f32)
 
 ## Property Page
 ![updated-real-estate-screenshot3](https://github.com/ViditaShetty/Real-Estate-In-ReactJs/assets/96463276/baf6455a-9738-4008-8c72-45a9597612a7)
